@@ -106,17 +106,17 @@ Let’s learn, build, and grow together 🚀
 
 ## 📊 GitHub Statistics 📈
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manasmayank76&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manasmayanks&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manasmayank76&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manasmayanks&layout=compact&theme=tokyonight)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=manasmayank76&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=manasmayanks&theme=tokyonight)
 
 ---
 
 ## 🔥 GitHub Contribution Activity
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=manasmayank76&theme=tokyo-night)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=manasmayanks&theme=tokyo-night)
 
 ---
 
@@ -127,7 +127,7 @@ To become a **skilled software engineer**, contribute to **impactful projects**,
 
 ## 👀 Profile Visitors
 
-![Profile Views](https://komarev.com/ghpvc/?username=manasmayank76&label=Profile%20Views&color=blue&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=manasmayanks&label=Profile%20Views&color=blue&style=flat)
 
 ---
 
