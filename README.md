@@ -87,14 +87,8 @@ Let’s learn, build, and grow together 🚀
 - 🐙 **GitHub**  
   https://github.com/manasmayank76  
 
-- 🏆 **HackerRank**  
-  https://www.hackerrank.com/manasmayank440  
-
 - 🧠 **LeetCode**  
   https://leetcode.com/manasmayank07  
-
-- ⚡ **Replit**  
-  https://replit.com/@manasmayank440  
 
 - 💼 **LinkedIn**  
   https://www.linkedin.com/in/manas-mayank-640397389  
