@@ -10,9 +10,6 @@ I am focused on building **strong DSA foundations**, mastering **programming ski
 
 ---
 
-## 💡 Coding Philosophy 💭
-> **"Consistency beats talent when talent is not consistent."**  
-> **"Every commit is a step toward long-term success."** 🚀
 
 ---
 
